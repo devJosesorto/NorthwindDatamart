@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="6/6/2021 2:37:45 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="RYZEN-5"
+  DTS:CreatorName="RYZEN-5\Jose"
+  DTS:DTSID="{3C44A1DF-46C2-43BB-80AF-183850C0D976}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="15.0.2000.166"
+  DTS:LocaleID="17418"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{2B850DB2-0AFE-41B9-90A1-6A5D7FD42DC3}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
